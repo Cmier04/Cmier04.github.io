@@ -17,3 +17,24 @@ My GitHub page is http://github.com/Cmier04
 * Lab 12
 
     I really liked lab 12 because we used Graphics Magick for a GIF. Part 2 was fun since we used a random number generator to get the result and it was fairly similar to part 1. Overall, lab 12 was just a fun lab as opposed to being a difficult one.
+
+## CPSC 121
+This class provided me with a lot of insight into object-oriented programming. As of right now files have been lost from this course.
+
+## CPSC 131
+The "Assignment 3 Stacks" repository belongs to this course but all other files need to be recovered. This course focused on data structures and taught me a lot about the subject which builds upon my foundation of knowledge and experience in Computer Science.
+
+## CPSC 223
+This Python course included assignments focused on applying our knowledge in object-oriented programming through Python programming and tested our troubleshooting abilities by ensuring students provided test cases wherever necessary.
+
+## CPSC 240
+I enjoyed this course a lot for its difficulty level and for how different it is compared to the others I have taken. This course introduces students to x86 assembly programming and provides a solid foundation for understanding how the hardware of our devices interacts with our software by teaching us how to store and utilize what is stored in various registers.
+
+## CPSC 253
+TBA
+
+## CPSC 323
+TBA
+
+## CPSC 411
+TBA
